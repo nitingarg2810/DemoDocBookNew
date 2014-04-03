@@ -1,0 +1,184 @@
+<resources>
+
+    <string name="app_name">DemoDocBook</string>
+	<string name="Username">Username</string>
+	<string name="Password">Password</string>
+	<string name="Enter">Enter</string>
+	<string name="villages_list">Villages</string>
+	
+	<string-array name="villages_array">
+	    <item >Village 1</item>
+	    <item >Village 2</item>
+		<item >Village 3</item>	   
+	</string-array>
+	<string name="history_list">History</string>
+	
+	<string-array name="history_array">
+	<item >High Risk</item>
+	<item >All Patient</item>
+	<item >Add Patient</item>
+	</string-array>
+		<string name="Submit">Submit</string>
+		<string name="Name">Name</string>
+		<string name="Age">Age</string>
+		<string name="Sex">Sex</string>
+		<string name="Education">Education</string>
+		<string name="Occupation">Occupation</string>
+		<string name="Caste">Caste</string>
+		<string name="BirthPlace">Birth Place</string>
+		<string name="Native">Native Language</string>
+	
+		<string name="Sex_list">Sex</string>
+	<string-array name="Sex_array">
+	    <item >Male</item>
+	    <item >Female</item>
+	</string-array>	
+		
+		<string name="Education_list">Education</string>
+	<string-array name="Education_array">
+	    <item >A</item>
+	    <item >B</item>
+	    <item >C</item>
+	</string-array>
+		
+		<string name="Occupation_list">Occupation</string>
+	<string-array name="Occupation_array">
+	    <item >1</item>
+	    <item >2</item>
+	    <item >3</item>
+	</string-array>
+	    <string name="MarriageAge">Marriage Age</string>
+	    <string name="Photo">Photo</string>
+	    <string name="takephoto">Take Photo</string>
+	    <string name="PhoneNo">Phnone No.</string>
+	    <string name="RCN">Ration Card No.</string>
+	    <string name="MS">Marrital Status</string>
+	    
+	    <string name="MS_list">Occupation</string>
+	<string-array name="MS_array">
+	    <item >Single</item>
+	    <item >Married</item>
+	    <item >Widowed</item>
+	    </string-array>
+	    <string name="Next">Next</string>
+	    <string name="hubby">Husband\'s Name</string>
+	    <string name="HubbyOccu">Husband\'s Occupation</string>
+	    <string name="people">No. of people in house</string>
+	    <string name="earning">No. of earning people</string>
+	    <string name="literate">No. of literate people</string>
+	    <string name="firstchilsage">Age of first child</string>
+	    <string name="edufirstchild">Education of first child</string>
+	    <string name="PV">Personal Vehicle</string>
+	    
+	    <string name="Hubby_occu_list">Husbands Occupation</string>
+	    <string-array name="Hubby_occu_array">
+	        <item >5</item>
+	      	<item >6</item>
+	        <item >7</item>
+	        <item >8</item>
+	    </string-array>
+	    
+	    <string name="Edu_firstchild_list">Education of First Child</string>
+	    <string-array name="Edu_firstchild_array">
+	        <item >9</item>
+	      	<item >10</item>
+	        <item >11</item>
+	        <item >12</item>
+	    </string-array>
+	    
+	    <string name="Personal_vehicle_list">Personal Vehicle</string>
+	    <string-array name="Personal_vehicle_array">
+	        <item >YES</item>
+	      	<item >NO</item>
+	    </string-array>
+	      	<string name="noofconceptions">No. of conceptions</string>
+	      	<string name="noofchildbirth">No. of child Birth</string>
+	      	<string name="nooflivingchlds">No. of living Childs</string>
+	      	<string name="noofdeadchilds">No. of dead Childs</string>
+	      	<string name="special">Special maternal complications and events in previous pregnancy</string>
+	      	<string name="specify">Specify which pregnancy</string>
+	      	<string name="obsoperations">Obstetrical Operations</string>
+	      	<string name="pregnancy">History of Pregnancy</string>
+	      	<string name="maternaldeathinfamily">Histrory of maternal death in family</string>
+	      	<string name="reproductiveinfection">History of reproductive tract infection</string>
+	      	<string name="contraception">Use of Contraception</string>
+	      	<string name="delivery">Last Delivery by whome and where</string>
+	      	<string name="n1">Next</string>
+	      	
+	    <string name="Special_maternal_list">Special maternal complications and events in previous pregnancy</string>
+	    <string-array name="Special_maternal_array">
+	        <item >Obstructed labour</item>
+	      	<item >Transverse presentation</item>
+	      	<item >Gestational diabetes</item>
+	      	<item >Recurrent early abortions</item>
+	      	<item >Induced abortions </item>
+	      	<item >Thrombosis</item>
+	      	<item >Embolus</item>
+	      	<item >Hypertension</item>
+	      	<item >Pre-eclampsia</item>
+	      	<item >Eclampsia</item>
+	    </string-array>
+		<string name="Obstetrical_operations_list">Obstetrical Operations</string>
+	    <string-array name="Obstetrical_operations_array">
+	        <item >Caesarean section</item>
+	      	<item >Forceps</item>
+	      	<item >Vacuum extraction</item>
+	      	<item >Manual/Instrumental help in vaginal breech delivery</item>
+	    	<item >Manual removal of the placenta</item>
+	    </string-array>
+		<string name="History_of_pregnancy_list">History of pregnancy</string>
+	    <string-array name="History_of_pregnancy_array">
+	        <item >LMP</item>
+	      	<item >History of duration of cycle</item>
+	      	<item >Pain</item>
+	      	<item >Vaginal bleeding</item>
+	    </string-array>		
+		<string name="History_of_reproductive_tract_infection_list">History of pregnancy</string>
+	    <string-array name="History_of_reproductive_tract_infection_array">
+	        <item >White discharge</item>
+	      	<item >Burning micturition</item>
+	    </string-array>
+	    <string name="Use_of_Contraception_list">Use of Contraception</string>		
+		<string-array name="Use_of_Contraception_array" >
+			<item >YES</item>	
+			<item >NO</item>
+			</string-array>	
+			<string name="history">Specific history and Conditions</string>	
+			<string name="allergy">Other disease or Allergy</string>	
+			<string name="section">Operations other than caesaraen section</string>	
+			<string name="infertility">Periods of Infertility:When</string>	
+			<string name="duration">Period(s) of infertility:Duration</string>	
+			<string name="causes">Period(s) of infertility:Causes</string>	
+			<string name="when">Period(s) of infertility:When</string>	
+			<string name="freequency">Previous history of Eclampsia and Freequency</string>	
+			<string name="hospital">Hospitalization Freequency</string>	
+			<string name="reason">Hospitalization Reason</string>	
+			<string name="anemia">Anemia/Sickle Cell</string>	
+			<string name="malaria">Malaria</string>
+			
+		<string name="Specific_histroy_list"></string>		
+		<string-array name="Specific_histroy_array" >
+			<item >TB</item>	
+			<item >Heart Disease</item>
+			<item >Chronic renal disease</item>
+			<item >Epilepsy</item>
+			<item >BP</item>
+			<item >Diabetes mellitus</item>
+			<item >STIs</item>
+			</string-array>	
+			
+		<string name="Anemia_list">Anemia</string>		
+		<string-array name="Anemia_array" >
+			<item >YES</item>	
+			<item >NO</item>
+			</string-array>	
+			
+		<string name="Malaria_list">Malaria</string>		
+		<string-array name="Malaria_array" >
+			<item >YES</item>	
+			<item >NO</item>
+			</string-array>	
+			<string name="next">Next</string>	
+			<string name="username">Username</string>	
+</resources>
+
