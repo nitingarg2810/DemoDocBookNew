@@ -131,6 +131,7 @@
         android:layout_width="134dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:layout_margin="20dp"
         android:text="@string/n1"
         android:textColor="@color/YellowGreen"
         android:textStyle="bold" />
