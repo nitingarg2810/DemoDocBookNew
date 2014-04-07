@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blueback"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="166dp"
+        android:layout_height="75dp"
+        android:background="@drawable/round"
+        android:text="@string/add_view_patients"
+        android:textColor="@color/YellowGreen"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <requestFocus />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="176dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="44dp"
+        android:background="@drawable/round"
+        android:text="@string/Appointments"
+        android:textColor="@color/YellowGreen"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <requestFocus />
+
+</LinearLayout>
