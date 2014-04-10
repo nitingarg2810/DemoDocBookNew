@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- default -->
+    <item android:state_pressed="false" android:state_focused="false">
+        <shape >
+            	<gradient
+                  android:startColor="#0e76a8"
+                  android:endColor="#0e76a8"
+                  android:angle="-90"></gradient>
+
+            <corners
+                android:bottomLeftRadius="7dip"
+                android:topRightRadius="7dip"
+                android:topLeftRadius="7dip"
+                android:bottomRightRadius="7dip"/>
+            <padding
+                android:left="9dp"
+                android:right="9dp"
+                android:top="9dp"
+                android:bottom="9dp" />
+        </shape>
+    </item>
+   
+    <!-- button focused -->
+    <item android:state_pressed="false" android:state_focused="true">
+        <shape >
+            <solid
+                android:color="#00ffff" /> 			<!--  for background color
+                											stroke : for outline of button -->
+            <stroke
+                android:width="1dp"
+                android:color="#00ffff" />
+            <corners
+                android:bottomLeftRadius="7dip"
+                android:topRightRadius="7dip"
+                android:topLeftRadius="7dip"
+                android:bottomRightRadius="7dip"/>
+            <padding
+                android:left="9dp"
+                android:right="9dp"
+                android:top="9dp"
+                android:bottom="9dp" />
+        </shape>
+    </item>
+   
+   <!-- button pressed -->
+    <item android:state_pressed="true" android:state_focused="false">
+        <shape >
+           <gradient
+                 
+                  android:centerColor="#610033"
+                  android:angle="-90"></gradient>
+           <stroke
+               android:width="1dp"
+               android:color="#444444"/>
+            <corners
+                android:bottomLeftRadius="7dip"
+                android:topRightRadius="7dip"
+                android:topLeftRadius="7dip"
+                android:bottomRightRadius="7dip"/>
+            <padding
+                android:left="9dp"
+                android:right="9dp"
+                android:top="9dp"
+                android:bottom="9dp" />
+        </shape>
+    </item> 
+</selector>

@@ -26,7 +26,7 @@ public class MainActivity extends Activity {
  
             public void onClick(View arg0) {
                 //Starting a new Intent
-                Intent nextScreen = new Intent(getApplicationContext(), MainActivity2.class);
+                Intent nextScreen = new Intent(getApplicationContext(), appoint.class);
  
                 startActivity(nextScreen);
  

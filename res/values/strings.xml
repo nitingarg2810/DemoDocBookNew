@@ -180,5 +180,9 @@
 			</string-array>	
 			<string name="next">Next</string>	
 			<string name="username">Username</string>	
+			<string name="Appointments">Appointments</string>	
+			<string name="add_view_patients">Add/View Patients</string>	
+			<string name="view_appointments">View           Appointments</string>	
+			<string name="add_new_appointment">Add New Appointment</string>	
 </resources>
 
